@@ -1,0 +1,2 @@
+# SSQRScanner
+QR Code Sanner 
