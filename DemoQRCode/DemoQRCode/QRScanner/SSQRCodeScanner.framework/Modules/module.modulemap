@@ -1,0 +1,10 @@
+framework module SSQRCodeScanner {
+  umbrella header "SSQRCodeScanner.h"
+
+  export *
+  module * { export * }
+}
+
+module SSQRCodeScanner.Swift {
+    header "SSQRCodeScanner-Swift.h"
+}
