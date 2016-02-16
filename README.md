@@ -1,2 +1,2 @@
 # SSQRScanner
-QR Code Sanner 
+QR Code Scanner 
