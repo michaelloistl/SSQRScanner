@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:DemoQRCode/DemoQRCode.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:SSQRCodeScanner/SSQRCodeScanner.xcodeproj">
    </FileRef>
 </Workspace>
